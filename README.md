@@ -242,4 +242,4 @@ This repository serves as the official landing page for SplitCam. The software i
 **Get the most recent version of SplitCam today!**
 
 ---
-**Last updated:** 2026-10-09 16:49:48 UTC
+**Last updated:** 2026-10-09 21:26:11 UTC
